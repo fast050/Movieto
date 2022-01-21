@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Fast050/AndroidStudioProjects/Movieto/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.31004566210045664" />
+        <entry key="..\:/Users/Fast050/AndroidStudioProjects/Movieto/app/src/main/res/drawable/ic_launcher_background.xml" value="0.31004566210045664" />
         <entry key="..\:/Users/Fast050/AndroidStudioProjects/Movieto/app/src/main/res/layout/activity_main.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/Fast050/AndroidStudioProjects/Movieto/app/src/main/res/layout/detail_fragment.xml" value="0.19305555555555556" />
+        <entry key="..\:/Users/Fast050/AndroidStudioProjects/Movieto/app/src/main/res/layout/discover_fragment.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Fast050/AndroidStudioProjects/Movieto/app/src/main/res/layout/home_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Fast050/AndroidStudioProjects/Movieto/app/src/main/res/layout/movie_item.xml" value="0.33" />
+        <entry key="..\:/Users/Fast050/AndroidStudioProjects/Movieto/app/src/main/res/layout/view_pager_movie_item.xml" value="0.1092436974789916" />
       </map>
     </option>
   </component>

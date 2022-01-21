@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Movieto</string>
+    <string name="content_description_media">Tranding Movie now</string>
+    <string name="movie_title">Great Moive 2022</string>
+    <string name="secondary_text">this moive is so good</string>
+    <string name="supporting_text">top rating movie in 2022 and will never be</string>
 </resources>
